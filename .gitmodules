@@ -1,0 +1,3 @@
+[submodule "modules/cassandra"]
+	path = modules/cassandra
+	url = git://github.com/smarchive/puppet-cassandra.git
